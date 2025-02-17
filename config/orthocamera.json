@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "save_enabled_state": false,
+  "scale_x": 567.17804,
+  "scale_y": 567.17804,
+  "min_distance": -1000.0,
+  "max_distance": 1000.0,
+  "fixed": true,
+  "fixed_yaw": 277.7133,
+  "fixed_pitch": 37.272125,
+  "fixed_rotate_speed_y": 3.0,
+  "fixed_rotate_speed_x": 3.0
+}

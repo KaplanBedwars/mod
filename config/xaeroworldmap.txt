@@ -1,5 +1,5 @@
 ignoreUpdate:0
-updateNotification:false
+updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
@@ -15,7 +15,7 @@ flowers:true
 coordinates:true
 hoveredBiome:true
 biomeColorsVanillaMode:false
-waypoints:true
+waypoints:false
 renderArrow:true
 displayZoom:true
 worldmapWaypointsScale:1.0
